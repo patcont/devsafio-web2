@@ -1,7 +1,6 @@
 # Devsafio WEB
 
-Proyecto para programa DLAB - Desafio Latam
-El proyecto consiste en una plataforma online orientada al uso de búsqueda de empleo y reclutamiento del rubro TI. Partiendo del perfil de cada usuario, test técnicos, encuestas, exhibiciones de código y material de apoyo. La web pretende poner en contacto a miles de postulantes y empresas.
+This side of the project consists consists about the Front of the Web Page Proyect about business and employment-oriented online services.
 
 ## Available Scripts
 
