@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdevsafio_web=self.webpackChunkdevsafio_web||[]).push([[459],{7459:function(e,a,d){d.r(a);d(2791);var s=d(184);a.default=function(){return(0,s.jsx)(s.Fragment,{children:(0,s.jsx)("div",{class:"badge badge-primary badge-lg mt-1 md:px-16",children:"Job Ready"})})}}}]);
+//# sourceMappingURL=459.6f47685f.chunk.js.map
